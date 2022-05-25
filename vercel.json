@@ -8,7 +8,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://time-dev-vinicius-santos.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&custom_title=Meu%20dia%20a%20dia%20desde%20Mar%C3%A7o%20de%202022&hide_border=true"
+      "destination": "https://time-dev-vinicius-santos.vercel.app/api/wakatime?username=c_viniciussantos&theme=radical&hide_border=true&hide=Other,Ignore,Trailhead,Debug&custom_title=Meu%20dia%20a%20dia%20desde%20Mar%C3%A7o%20de%202022"
     }
   ]
 }
